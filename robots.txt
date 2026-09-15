@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leaf-miyako.github.io/leaf-japanese-antique/sitemap.xml
